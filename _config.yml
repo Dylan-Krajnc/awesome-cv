@@ -12,7 +12,7 @@ cv   : "resume.pdf"
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  Dylan-Krajnc
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+ projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
