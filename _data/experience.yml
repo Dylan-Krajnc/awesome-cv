@@ -3,8 +3,13 @@
   #company: Company name
   #link: Link to company (optional)
   job_title: Retail Sales
-  dates: April 2018 - June 2018
+  dates: March 2018 - May 2018
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Retail job that involved selling cameras to customers in both English and Afrikaans.
+    
+  job_title: Computer Literacy Teaching
+  dates: April 2018 - June 2018
+  description: | # this will include new lines to allow paragraphs
+    The University's JCP module which had us teach computer literacy skills. 
