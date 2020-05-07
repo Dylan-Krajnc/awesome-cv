@@ -1,9 +1,13 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Pretoria
+  dates: 2017-2020
+  qualification: BSc Computer Science
   quote: >
-    Short institution or course description (optional)
+    The skills which I have acquired over the past 4 years: 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - The ability to solve problems using an object oriented approach using various design patterns. Competent with the OOP languages C++ and Java
+    - Full stack website development skills using a variety of languages (html, css, Javascript, PHP, JQuery) and some frameworks (BootStrap, NodeJS)
+    - Some experience using Android Studio to create an Android phone application for a personal project
+    - Mathematical and statistical skills acquired from taking statistics, calculus, linear algebra and discrete mathemitics classes
+    - Database Administration skills
