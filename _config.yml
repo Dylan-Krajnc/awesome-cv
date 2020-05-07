@@ -24,16 +24,16 @@ github_username:  Dylan-Krajnc
 #googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Dylan Krajnc
 about_profile_image: images/myDP.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+  A final student at the University of Pretoria studying to obtain a Bachelor's of Science of in Computer Science. Eager to learn new skills and technologies that will allow me to solve new problems and create better software. Even more willing to do so when working with a team to accomplish a task. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+#    - Tables
+#    - Links
+#   - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
