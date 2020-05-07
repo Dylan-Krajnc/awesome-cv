@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Competitions
 more_content: | # this will include new lines to allow paragraphs
-  - 2019 Catalyst Coding Competiton
+        - 2019 Catalyst Coding Competiton
 
 # Footer
 footer_show_references: true
