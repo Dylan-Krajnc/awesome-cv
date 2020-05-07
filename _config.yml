@@ -3,10 +3,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Dylan Krajnc
+title: BSc Computer Science Student
+email: u17029318@tuks.co.za
+phone: 078 907 5622
 cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
